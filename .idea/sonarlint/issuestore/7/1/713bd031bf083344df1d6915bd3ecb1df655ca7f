@@ -1,0 +1,20 @@
+
+q
+java:S1604¡"(Make this anonymous inner class a lambda(Ö»Õ»üÿÿÿÿ8¢Œ¾’2J$db8dac31-feee-4ce5-9a52-c59d59315c9c
+”	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ÚŠ™8£Œ¾’2J$c7f48583-1e3f-47b2-a71f-5c8aef29c1d2
+”	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üçİé8£Œ¾’2J$c7e553ca-0739-42af-90a5-1e0ce6dbc1f7
+”	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìá¦‰8£Œ¾’2J$3c03fa33-d2dc-473d-84a3-62fd2ba10ac2
+b
+java:S1190µ"Use a different name than "_".(˜ÚŠ™8¦Œ¾’2J$03c35f99-1d4e-4846-892c-1e8816f34e4b
+b
+java:S1190ç"Use a different name than "_".(Üçİé8¦Œ¾’2J$32c061ae-9184-4fc2-a90a-0ecc6a095a88
+b
+java:S1190ï"Use a different name than "_".(Ìá¦‰8¦Œ¾’2J$1b2efc4d-35c5-40b9-b213-40fea4321bfc
+”
+java:S3655¾"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×Şë°8§Œ¾’2J$7acf5851-90be-4de2-b46b-314df61a6678
+¡
+java:S14500"^Remove the "afternoonButton" field and declare it as a local variable in the relevant methods.(ø—õ8¯Œ¾’2J$73ac24c1-bfde-48b5-a4f3-66569990e336
+¤
+java:S14501"\Remove the "eveningButton" field and declare it as a local variable in the relevant methods.(²·¶îüÿÿÿÿ8¯Œ¾’2J$8f57ce4e-3b00-4e2a-93d2-989334d2c152
+Ÿ
+java:S1450/"\Remove the "morningButton" field and declare it as a local variable in the relevant methods.(¥èş8°Œ¾’2J$42ded092-bf96-483f-83be-c120bd0e6884
